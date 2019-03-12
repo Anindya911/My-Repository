@@ -1,2 +1,2 @@
 # My-Repository
-My repository for the capstone project
+Welcome to my repository
